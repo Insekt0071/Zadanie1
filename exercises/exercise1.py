@@ -6,7 +6,7 @@ promien = 5
 pole_kola = math.pi * promien * promien
 pole_tr = (bok_a * bok_b) / 2
 print("pole kwadratu: " + str(pole_kw))
-#print("pole kola " + str(pole_kola))
+print("pole kola " + str(pole_kola))
 #print("pole trojkata: " + str(pole_tr))
 
 
